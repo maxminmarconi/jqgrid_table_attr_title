@@ -1,5 +1,9 @@
 # jqGrid 表格展示系统
 
+# Hi there 👋, I'm 牛经理!
+
+🌟 **大龄程序员** | 🛠️ **代码老司机** | 🚀 **技术探索者** | 🌱 **持续学习中** 
+
 ## 项目说明
 这是一个基于 jQuery jqGrid 插件实现的表格展示系统，特别优化了悬浮提示功能，提供清晰美观的数据预览体验。
 
@@ -40,3 +44,8 @@
 - jQuery
 - jqGrid
 - jQuery UI (tooltip)
+
+如果这个仓库对你有帮助，欢迎 star，欢迎提问。如果这个仓库帮你解决了工作问题，可以请即将失业的大龄程序员的我喝杯奶茶：
+
+<p align="center"><img src="buy-me-a-coffee-wechat.jpg" width="240" height="240
+" alt="" /></p>
