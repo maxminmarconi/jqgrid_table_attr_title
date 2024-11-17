@@ -40,6 +40,3 @@
 - jQuery
 - jqGrid
 - jQuery UI (tooltip)
-
-## 使用方法
-1. 引入必要的CSS文件：
